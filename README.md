@@ -1,11 +1,11 @@
 # alura_imersao_dev_gemini
  Olimpíadas - Projeto Alura + IA Google Gemini
 
-#  Olimpíadas Brasileiras - Plataforma de Pesquisa de Atletas
+#  Atletas do Brasil - Plataforma de Pesquisa
 
 ##  Sobre o Projeto
 
-Projeto criado na semana da `imersão dev` da Alura com Google Gemini,  e tem como objetivo fornecer uma plataforma intuitiva para pesquisar informações sobre atletas brasileiros. Através de uma interface simples, o usuário pode encontrar detalhes sobre a carreira, conquistas e curiosidades de diversos esportistas.
+Projeto criado na semana da `imersão dev` da Alura com Google Gemini, e tem como objetivo fornecer uma plataforma intuitiva para pesquisar informações sobre atletas brasileiros. Através de uma interface simples, o usuário pode encontrar detalhes sobre a carreira, conquistas e curiosidades de diversos esportistas.
 
 ##  Tecnologias Utilizadas
 
