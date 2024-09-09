@@ -19,4 +19,5 @@ Projeto criado na semana da `imersão dev` da Alura com Google Gemini, e tem com
 
 ##  Demonstração
 
-[[Atletas do Brasil](https://alura-imersao-dev-gemini-tan.vercel.app/)]
+<a href="https://alura-imersao-dev-gemini-tan.vercel.app/" target="_blank">Atletas do Brasil</a>
+<!-- [[Atletas do Brasil](https://alura-imersao-dev-gemini-tan.vercel.app/)] -->
